@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#14532d"/>
+      <stop offset="100%" stop-color="#1c6a3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f7f7f2"/>
+  <rect x="48" y="48" width="1104" height="534" rx="34" fill="url(#g)"/>
+  <circle cx="960" cy="170" r="48" fill="#ba8d2b" fill-opacity="0.9"/>
+  <text x="96" y="230" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700">VSE JE TU</text>
+  <text x="96" y="300" fill="#e3efe8" font-family="Arial, Helvetica, sans-serif" font-size="42">Na enem mestu.</text>
+  <text x="96" y="408" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30">Spominki · 3D izdelki · Turizem · Sodelovanje</text>
+  <text x="96" y="462" fill="#d3e7da" font-family="Arial, Helvetica, sans-serif" font-size="28">One-stop shop za povezovanje, izvedbo in povpraševanja.</text>
+</svg>
