@@ -1,0 +1,16 @@
+{
+  "name": "VSE JE TU",
+  "short_name": "VSE JE TU",
+  "description": "Na enem mestu. Spominki, 3D izdelki, turizem, sodelovanje in kontakt.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#14532d",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
